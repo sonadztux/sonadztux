@@ -1,6 +1,6 @@
 # Hello, World! 👋
 
-> Software Engineering Enthusiast, Lead of Assistant at [EDE Laboratory](https://github.com/lifeatedelab)
+> Software Engineering Intern at [Nodeflux](https://github.com/nodefluxio)
 
 A tech world enthusiast especially in software engineering, currently studying in Bachelor of Information System at Telkom University. Having experience as Web Developer for several Information System Applications, but for now more focused on Back-End.
 
