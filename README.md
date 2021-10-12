@@ -1,8 +1,6 @@
 # Hello, World! 👋
 
-> Software Engineering Intern at [Nodeflux](https://github.com/nodefluxio)
-
-A tech world enthusiast especially in software engineering, currently studying in Bachelor of Information System at Telkom University. Having experience as Web Developer for several Information System Applications, but for now more focused on Back-End.
+> Software Engineer Intern at [Nodeflux](https://github.com/nodefluxio)
 
 ### :computer: Technologies I Love
 * Software Engineering Development
@@ -19,7 +17,7 @@ A tech world enthusiast especially in software engineering, currently studying i
 If you would like to discuss about technological stuff, don't be hesitate to 'touch' me on: 
 * [LinkedIn](https://www.linkedin.com/in/nanda-arfan-hakim/)
 * [Facebook](https://facebook.com/sonadztux/)
-* [Twitter](https://twitter.com/sonadztux)
+* [Twitter](https://twitter.com/sndztx)
 * [Email](mailto://nanda@anakdesa.id)
 
 You can also ask me anything (within reason).
