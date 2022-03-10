@@ -1,11 +1,12 @@
 # Hello, World! 👋
 
-> Software Engineer Intern at [Nodeflux](https://github.com/nodefluxio)
+> System Engineer Intern (Cloud Platform) at [Tokopedia](https://github.com/tokopedia)
 
 ### :computer: Technologies I Love
 * Software Engineering Development
 * Back-End Web Development
 * Open Sources Technology
+* Cloud Computing Technology
 * GNU/Linux (currently using Linux Mint 19)
 
 
